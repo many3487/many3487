@@ -49,6 +49,7 @@
 
 <div align="center">
 
+## <p align="center">¡Reach me on <a href="https://www.linkedin.com/in/Many3487">LinkedIn</a>
  
 ### I hope you like my repositories! 💀
 
