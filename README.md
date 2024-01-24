@@ -1,4 +1,4 @@
-## <h1 aling="center">print('Hi, I'm Manuel Jimenez!👋') </h1>
+## <h1 align="center">print('Hi, I'm Manuel Jimenez!👋') </h1>
 
 ## <p align="center">I'm a web developer from Colombia </p>
 
@@ -38,7 +38,7 @@
 
 ### GitHub Stats
 
-| <img align="right" src="https://github-readme-stats.vercel.app/api?username=many3487&show_icons=true&theme=dark&line_height=25" alt="many3487's github stats"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=many3487&theme=dark" width=""> |
+| <img align="right" src="https://github-readme-stats.vercel.app/api?username=many3487&show_icons=true&count_private=true&theme=discord_old_blurple&hide_border=true" alt="many3487's github stats"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=many3487&theme=dark" width=""> |
 | --------- | --------- |
 
 ***
