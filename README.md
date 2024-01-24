@@ -1,4 +1,6 @@
-## console.log('Hi, I'm Manuel Jimenez!👋')
+## <h1 aling="center">print('Hi, I'm Manuel Jimenez!👋') </h1>
+
+## <p align="center">I'm a web developer from Colombia </p>
 
 <!-- - 🔭 I’m currently working on [Asiste Ingenieria S.A.S](https://frontier.xyz/). -->
 <!-- - 🌱 I like to learn all the time.
