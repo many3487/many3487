@@ -1,2 +1,0 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: many3487/snk@v3.4.1
