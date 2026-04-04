@@ -44,7 +44,9 @@ jobs:
 
       - name: Checkout Repository
 
-        uses: actions/checkout@v3
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
 
 
 
@@ -79,6 +81,8 @@ jobs:
 
 
       # Step 3: Deploy the generated files to the 'output' branch
+      - name: Install Dependencies
+        run: npm install
 
       - name: Deploy to Output Branch
 
