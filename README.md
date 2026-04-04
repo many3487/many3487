@@ -39,7 +39,7 @@
 
 ### GitHub Stats
 
-| <img align="right" src="https://github-readme-stats.vercel.app/api?username=many3487&show_icons=true&count_private=true&theme=discord_old_blurple&hide_border=true" alt="many3487's github stats"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=many3487&theme=dark" width=""> |
+| | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=many3487&theme=dark" width=""> |
 | --------- | --------- |
 
 ***
