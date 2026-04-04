@@ -3,11 +3,14 @@ name: GitHub Snake Game
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
   push:
     branches:
       - main
+
+# ✅ Permiso para poder hacer push a la rama output
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -15,11 +18,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # ✅ Checkout correcto
+      # ✅ Clonar el repositorio correctamente
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 🐍 Generar snake
+      # 🐍 Generar el snake
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -31,7 +34,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🚀 Deploy
+      # 🔍 Debug opcional (puedes quitarlo luego)
+      - name: Verificar archivos generados
+        run: ls -la dist || echo "No se generó dist"
+
+      # 🚀 Publicar en la rama output
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
