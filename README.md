@@ -39,7 +39,7 @@
 
 ### GitHub Stats
 
-| | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=many3487&theme=dark" width=""> |
+| <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=many3487&theme=dark" width=""> |
 | --------- | --------- |
 
 ***
@@ -49,6 +49,12 @@
 
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/many3487/many3487/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/many3487/many3487/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/many3487/many3487/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## <p align="center">¡Reach me on <a href="https://www.linkedin.com/in/Many3487">LinkedIn</a>!</p>
  
