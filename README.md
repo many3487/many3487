@@ -39,7 +39,7 @@
 
 ### GitHub Stats
 
-|<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=many3487&layout=compact&langs_count=8&theme=algolia"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=many3487&theme=dark" width=""> |
+|<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=many3487&layout=compact&langs_count=8&theme=dark"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=many3487&theme=dark" width=""> |
 | --------- | --------- |
 
 ***
